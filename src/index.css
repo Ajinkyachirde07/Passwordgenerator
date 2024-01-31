@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.con {
+  padding-left: 22px;
+  margin-left: 22px;
+  display: flex;
+  flex-wrap: wrap;
+  display: block;
+}
+
+.mainbox {
+  margin-top: 120px;
+}
+
